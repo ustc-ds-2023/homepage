@@ -16,9 +16,9 @@ typora-copy-images-to: images
 
 题集 P80 1.4
 
-![](images/image-20230925204438926.png)
+<img src="images/image-20230925204438926.png" style="zoom:45%;" />
 
-![](images/image-20230925204548896.png)
+<img src="images/image-20230925204548896.png" style="zoom:45%;" />
 
 ### 选做内容
 
@@ -30,7 +30,7 @@ typora-copy-images-to: images
 
 题集 P80 1.5
 
-![image-20230925205628851](images/image-20230925205628851.png)
+<img src="images/image-20230925205628851.png" alt="image-20230925205628851" style="zoom: 45%;" />
 
 ### 选做内容
 
