@@ -30,7 +30,7 @@ typora-copy-images-to: images
 
 题集 P80 1.5
 
-![image-20230925205628851](/home/yu/code/ustc-ds-2023.github.io/images/image-20230925205628851.png)
+![image-20230925205628851](images/image-20230925205628851.png)
 
 ### 选做内容
 
