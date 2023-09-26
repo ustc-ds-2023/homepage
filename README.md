@@ -2,7 +2,7 @@
 
 - 时间地点：1(6,7) 3(6,7) @ 3C203
 - 教师：[马建辉](mailto:jianhui@ustc.edu.cn)
-- 助教：葛凇铂，[余磊](mailto:meet.leiyu@gmail.com)，吕思翰
+- 助教：[葛凇铂](mailto:gsb0908@mail.ustc.edu.cn)，[余磊](mailto:meet.leiyu@gmail.com)，吕思翰
 
 ## 作业
 
