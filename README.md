@@ -18,3 +18,8 @@
 | ------------------- | -------- | ---------------- |
 | [实验一](./lab1.md) | 链表相关 | 9.27, 10.11(DDL) |
 
+## 课程资源
+
+- [数据结构(C语言版).pdf](https://github.com/ustc-ds-2023/ustc-ds-2023.github.io/files/12721037/default.pdf)
+- [数据结构题集.pdf](https://github.com/ustc-ds-2023/ustc-ds-2023.github.io/files/12721020/default.pdf)
+
