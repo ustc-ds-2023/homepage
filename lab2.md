@@ -18,9 +18,9 @@
 
 题集 P100 2.6
 
-![image-20231017231325332](images/image-20231017231325332.png)
+<img src="images/image-20231017231325332.png" alt="image-20231017231325332" style="zoom:60%;" />
 
-![image-20231017231342169](images/image-20231017231342169.png)
+<img src="images/image-20231017231342169.png" alt="image-20231017231342169" style="zoom:60%;" />
 
 ### 选做内容
 
@@ -32,9 +32,9 @@
 
 题集 P101 2.7
 
-![image-20231017231411421](images/image-20231017231411421.png)
+<img src="images/image-20231017231411421.png" alt="image-20231017231411421" style="zoom:60%;" />
 
-![image-20231017231436168](images/image-20231017231436168.png)
+<img src="images/image-20231017231436168.png" alt="image-20231017231436168" style="zoom:60%;" />
 
 ### 选做内容
 
@@ -44,11 +44,11 @@
 
 题集 P102 2.8
 
-![image-20231017231201550](images/image-20231017231201550.png)
+<img src="images/image-20231017231201550.png" alt="image-20231017231201550" style="zoom:60%;" />
 
-![image-20231017231048630](images/image-20231017231048630.png)
+<img src="images/image-20231017231048630.png" alt="image-20231017231048630" style="zoom:60%;" />
 
-![image-20231017231112109](images/image-20231017231112109.png)
+<img src="images/image-20231017231112109.png" alt="image-20231017231112109" style="zoom:60%;" />
 
 ### 选做内容
 
