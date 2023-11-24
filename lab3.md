@@ -45,10 +45,10 @@
 表示将 `testcase/image.png` 压缩为 `compressed/image.png.huff`。
 
 ```
-./huffman.exe -x -i compressed/image.png.huff -o uncompressed/image.png
+./huffman.exe -x -i compressed/image.png.huff -o decompressed/image.png
 ```
 
-表示将 `compressed/image.png.huff` 解压至 `uncompressed/image.png`。
+表示将 `compressed/image.png.huff` 解压至 `decompressed/image.png`。
 
 一般情况下，这种命令行风格有一些大家约定俗成的原则，例如：
 
@@ -90,11 +90,11 @@ testcase
 └── 6.MV.mp4
 ```
 
-针对 `testcase` 目录中的每一个测试样例，将其压缩存至 `compressed` 目录，再解压至 `uncompressed` 目录。
+针对 `testcase` 目录中的每一个测试样例，将其压缩存至 `compressed` 目录，再解压至 `decompressed` 目录。
 
-`uncompressed` 目录中的每个文件应能正常打开，且和 `testcase` 中对应文件的内容一致。考虑到肉眼观测一致性可能存在疏漏，我们要求你使用文件/文件夹对比软件来检验一致性。
+`decompressed` 目录中的每个文件应能正常打开，且和 `testcase` 中对应文件的内容一致。考虑到肉眼观测一致性可能存在疏漏，我们要求你使用文件/文件夹对比软件来检验一致性。
 
-例如，你可以下载 [WinMerge](https://github.com/WinMerge/winmerge) 或 [Beyond Compare](https://www.scootersoftware.com/)，然后使用它们的“文件夹对比”功能，对比 `testcase` 文件夹和 `uncompressed` 文件夹。
+例如，你可以下载 [WinMerge](https://github.com/WinMerge/winmerge) 或 [Beyond Compare](https://www.scootersoftware.com/)，然后使用它们的“文件夹对比”功能，对比 `testcase` 文件夹和 `decompressed` 文件夹。
 
 ### 选做内容
 
