@@ -108,7 +108,7 @@ testcase
 
 请实现此优化策略，针对 `2.hamlet.txt` （《哈姆雷特》全书）文件，计算采用这种优化策略的压缩率，对比没有采用优化策略时的压缩率。
 
-> 经过实际测试该纯文本优化方案确实是能起效果的：当阈值设为 4 时压缩率最高，此时该文件被压缩到 91 KB（无此优化时是 104 KB 左右）。在我的实现中，使用了 [Variable-length Quantity](https://en.wikipedia.org/wiki/Variable-length_quantity)，未使用 [Canonical Huffman](https://en.wikipedia.org/wiki/Canonical_Huffman_code)。
+> 经过实际测试该纯文本优化方案确实是能起效果的：在我的实现中，当阈值设为 4 时压缩率最高，此时该文件被压缩到 91 KB（无此优化时是 104 KB 左右）。我使用了 [Variable-length Quantity](https://en.wikipedia.org/wiki/Variable-length_quantity)，未使用 [Canonical Huffman](https://en.wikipedia.org/wiki/Canonical_Huffman_code)。
 >
 > 如果你的实现中，该优化策略没能起效，可能是因为存储编码表的方式不够高效。你可以自行找一个更大的英文自然语言纯文本文件（当然，直接把 `2.hamlet.txt` 自身复制很多遍也是可以的），只要你能找到一个 testcase 让你的优化方案实际起效，该选做就视为通过 :)
 
